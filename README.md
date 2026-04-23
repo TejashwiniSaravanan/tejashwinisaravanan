@@ -1,16 +1,63 @@
 ## Hi I'm Tejashwini 👋
 
-<!--
-**TejashwiniSaravanan/tejashwinisaravanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://raw.githubusercontent.com/TejashwiniSaravanan/tejashwinisaravanan/main/banner.png" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashwinisaravanan/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:post2tejashwini@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TejashwiniSaravanan)
+[![Profile Views](https://komarev.com/ghpvc/?username=TejashwiniSaravanan&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/TejashwiniSaravanan)
+
+</div>
+
+---
+
+- 🔭 I'm currently working on **HIPAA-compliant AI health data pipelines processing 500K+ genomic & wearable records**
+- 🌱 I'm currently learning **advanced cloud architecture on GCP & real-time streaming with Apache Spark**
+- 👯 I'm looking to collaborate on **healthcare analytics, clinical data projects & open-source health equity initiatives**
+- 💬 Ask me about **Power BI · Tableau · PySpark · healthcare data · predictive modeling — happy to help!**
+- 📫 How to reach me: **post2tejashwini@gmail.com** or [LinkedIn](https://www.linkedin.com/in/tejashwinisaravanan/)
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **I started my career as an Interior Designer — turns out structuring spaces and structuring data aren't that different!**
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+| 📊 BI & Visualization | 🏥 Healthcare | 🤖 ML & Analytics |
+|:---:|:---:|:---:|
+| ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![RShiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) | ![HIPAA](https://img.shields.io/badge/HIPAA-3DD6A3?style=flat-square&logoColor=white) ![FHIR](https://img.shields.io/badge/FHIR-E91E63?style=flat-square&logoColor=white) ![EHR](https://img.shields.io/badge/EHR_Analytics-A78BFA?style=flat-square&logoColor=white) ![Clinical](https://img.shields.io/badge/Clinical_Data-0288D1?style=flat-square&logoColor=white) | ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6D00?style=flat-square&logoColor=white) |
+
+| ☁️ Big Data & Cloud | 🐍 Languages | 🗄️ Databases & Tools |
+|:---:|:---:|:---:|
+| ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel_MOS-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=TejashwiniSaravanan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3dd6a3&text_color=c8d6f0&count_private=true" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejashwiniSaravanan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c8d6f0&langs_count=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+*💼 Open to full-time roles in Healthcare Analytics · Business Intelligence · Data Engineering*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashwinisaravanan/)
+
+</div>

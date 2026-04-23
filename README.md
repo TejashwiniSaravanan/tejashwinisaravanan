@@ -21,6 +21,7 @@
 I'm a **Healthcare & Business Data Analyst** who believes the right predictive model, built on the right data, can genuinely change a patient's outcome. With 3+ years across clinical data, BI dashboards, and big data pipelines - I build analytics that don't just report what happened, but help predict what's coming next.
 
 - 🏥 **Currently building** HIPAA-compliant AI health pipelines - processing 500K+ genomic & wearable records
+- 🎓 **MS Data Analytics for Business** · Seattle Pacific University, Seattle WA *(2025)*
 - 📊 **I speak** Power BI, Tableau, PySpark and Python fluently - and translate all of it into decisions for non-technical stakeholders
 - 🤖 **Passionate about** predictive modeling that improves patient outcomes & closes health equity gaps
 - 💬 **Ask me about** healthcare analytics, clinical data, dashboards, or anything data - I'm happy to help!

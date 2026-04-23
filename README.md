@@ -1,7 +1,7 @@
 ## Hi I'm Tejashwini 👋
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/TejashwiniSaravanan/tejashwinisaravanan/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/TejashwiniSaravanan/tejashwinisaravanan/main/banner.png" width="75%" />
 </div>
 
 <br/>
@@ -17,13 +17,15 @@
 
 ---
 
-- 🔭 I'm currently working on **HIPAA-compliant AI health data pipelines processing 500K+ genomic & wearable records**
-- 🌱 I'm currently learning **advanced cloud architecture on GCP & real-time streaming with Apache Spark**
-- 👯 I'm looking to collaborate on **healthcare analytics, clinical data projects & open-source health equity initiatives**
-- 💬 Ask me about **Power BI · Tableau · PySpark · healthcare data · predictive modeling — happy to help!**
-- 📫 How to reach me: **post2tejashwini@gmail.com** or [LinkedIn](https://www.linkedin.com/in/tejashwinisaravanan/)
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: **I started my career as an Interior Designer — turns out structuring spaces and structuring data aren't that different!**
+
+I'm a **Healthcare & Business Data Analyst** who believes the right predictive model, built on the right data, can genuinely change a patient's outcome. With 3+ years across clinical data, BI dashboards, and big data pipelines - I build analytics that don't just report what happened, but help predict what's coming next.
+
+- 🏥 **Currently building** HIPAA-compliant AI health pipelines - processing 500K+ genomic & wearable records
+- 📊 **I speak** Power BI, Tableau, PySpark and Python fluently - and translate all of it into decisions for non-technical stakeholders
+- 🤖 **Passionate about** predictive modeling that improves patient outcomes & closes health equity gaps
+- 💬 **Ask me about** healthcare analytics, clinical data, dashboards, or anything data - I'm happy to help!
+- 📫 **Reach me at** [post2tejashwini@gmail.com](mailto:post2tejashwini@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tejashwinisaravanan/)
+- ⚡ **Fun fact:** I started as an Interior Designer - turns out structuring spaces and structuring data are the same skill, just a different canvas
 
 ---
 
@@ -58,6 +60,13 @@
 
 *💼 Open to full-time roles in Healthcare Analytics · Business Intelligence · Data Engineering*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashwinisaravanan/)
+<br/>
+
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashwinisaravanan/)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:post2tejashwini@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" />
 
 </div>

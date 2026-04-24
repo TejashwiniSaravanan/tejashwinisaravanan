@@ -1,8 +1,6 @@
 ## Hi I'm Tejashwini 👋
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/TejashwiniSaravanan/tejashwinisaravanan/main/banner.png" width="75%" />
-</div>
+
 
 <br/>
 

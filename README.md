@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/TejashwiniSaravanan/tejashwinisaravanan/main/banner2.png" width="75%" />
 
+</div>
+
 <br/>
 
 <div align="center">
@@ -16,7 +18,6 @@
 </div>
 
 ---
-
 
 I'm a **Healthcare & Business Data Analyst** who believes the right predictive model, built on the right data, can genuinely change a patient's outcome. With 3+ years across clinical data, BI dashboards, and big data pipelines - I build analytics that don't just report what happened, but help predict what's coming next.
 
